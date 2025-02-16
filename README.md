@@ -7,3 +7,9 @@ Users should be able to easily input their Python code into the application.
 
 #To run the code for this particular file, run the following command which is given below:
 ""streamlit run File_name.py""
+
+ AI-Powered Code Review – Uses Gemini AI to analyze Python scripts.
+✅ Error Detection – Identifies syntax errors, logical mistakes, and inefficiencies.
+✅ Best Practice Suggestions – Provides optimized and improved versions of the code.
+✅ Beginner-Friendly UI – A simple, intuitive Streamlit interface.
+✅ Fast & Secure – Loads API key from a file to prevent accidental exposure.
